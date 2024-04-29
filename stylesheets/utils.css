@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,800&family=Vollkorn+SC:wght@900&display=swap');
+
+:root{
+    --name-font:"Vollkorn SC";
+    --options-font:"Kanit";
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.flex{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
